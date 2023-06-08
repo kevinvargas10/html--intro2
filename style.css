@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+}
+
+.box1 {
+  color: white;
+  text-align: center;
+  flex: 1;
+  background-color: blue;
+}
+
+.box2 {
+  flex: 2;
+  background-color: white;
+}
+
+.texto1 {
+  text-align: center;
+  color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 35px;
+  margin: auto;
+  margin-right: 35%;
+  margin-top: auto;
+}
+
+.texto2 {
+  text-align: center;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 50px;
+  margin-right: 40%;
+  margin-bottom: auto;
+}
+
+.header {
+  background-color: blue;
+  padding: 10px;
+  border: 2px solid black;
+  color: white;
+  text-align: center;
+}
+.encabezado {
+  width: 50%;
+  height: 10%;
+  background-color: blue;
+  padding: 1px;
+  border: 2px solid black;
+  color: white;
+  text-align: center;
+}
